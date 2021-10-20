@@ -12,6 +12,7 @@ sudo apt-get install mysql-server
 sudo apt-get install libapache2-mod-auth-mysql
 sudo apt-get install php-mysql
 sudo apt-get install phpmyadmin
+sudo apt install lamp-server^
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install libboost-all-dev
